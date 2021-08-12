@@ -1,0 +1,35 @@
+.cardHotel {
+    margin-top: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%;
+    margin-left: 10%;
+    height: 36.5vh;
+
+  }
+  
+  .cardHotel:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+   .hotelBody {
+     margin: 150px audio;
+     padding: 8px;
+   } 
+
+   .img-hotel {
+     
+     float: left;
+     width: 300px;
+     height: 260px;
+     padding: 0 10px 0 0;
+  
+  }
+
+   .text-wrap-image {
+     text-align: justify;
+     }
+
+  .hotelName {
+    margin-right: -80%;
+  } 
